@@ -1,8 +1,3 @@
-Certainly! Here's the `CONTRIBUTING.md` file for your 'sortitude' project:
-
-**CONTRIBUTING.md**
-
-```markdown
 # Contributing to Sortitude
 
 We welcome your contributions to the Sortitude project! Whether you want to report a bug, suggest an enhancement, or submit code changes, your help is appreciated. Please take a moment to read through this guide to understand how to contribute effectively.
@@ -66,6 +61,3 @@ Thank you for contributing to Sortitude and helping us make file organization ea
 For any questions or further assistance, feel free to join our [Discord Server](https://discord.gg/kVZVDnPtJQ).
 
 **LyubomirT** | [GitHub Profile](https://github.com/LyubomirT)
-```
-
-Feel free to adjust the links and content as needed, and be sure to replace `[YourUsername]` with your actual GitHub username.
